@@ -262,8 +262,8 @@ export const translations = {
     },
 
     login: {
-      department: 'Bahagian Penginapan & Kediaman',
-      welcome:          'Selamat Kembali!',
+      department: 'Bahagian pengurusan Penginapan',
+      welcome:          'Selamat Datang',
       subtitle:         'Log masuk ke akaun anda untuk meneruskan...',
       email:            'Alamat E-mel',
       emailPlaceholder: 'anda@unisiraj.edu.my',
@@ -276,7 +276,7 @@ export const translations = {
       demoCredentials:  'Kelayakan Log Masuk Demo',
       clickToExpand:    'Klik untuk kembangkan',
       systemTitle:      'Sistem Pengurusan Aduan Kemudahan Kampus',
-      footer:           '© 2026 BPK UniSIRAJ · Sistem Pengurusan Aduan Kemudahan',
+      footer:           '© 2026 BPP UniSIRAJ · Sistem Pengurusan Aduan Kemudahan',
       roles: {
         student: 'Pelajar',
         staff:   'Kakitangan 1',

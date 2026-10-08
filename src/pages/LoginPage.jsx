@@ -98,7 +98,7 @@ const LoginPage = () => {
               className="text-sm font-semibold"
               style={{ color: '#edb149' }}
             >
-              {t('login.department')} <p>(BPK)</p>
+              {t('login.department')} <p>(BPP)</p>
             </p>
 
             {/* University Name */}

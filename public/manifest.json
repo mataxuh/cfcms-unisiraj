@@ -1,6 +1,6 @@
 {
-  "name": "BPK Campus Facility Management System",
-  "short_name": "BPK UniSIRAJ",
+  "name": "BPP Campus Facility Management System",
+  "short_name": "BPP UniSIRAJ",
   "description": "UniSiraj BPK Campus Facility Complaint Management System",
   "start_url": "/",
   "display": "standalone",
